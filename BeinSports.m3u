@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,1101: bEIN Sports HD 1
+http://185.93.3.84:5000/play/a01v
+#EXTINF:0,1102: bEIN Sports HD 2
+http://185.93.3.84:5000/play/a01w
+#EXTINF:0,1103: bEIN Sports HD 3
+http://185.93.3.84:5000/play/a01t
+#EXTINF:0,1104: bEIN Sports HD 4
+http://185.93.3.84:5000/play/a01u
+#EXTINF:0,1105: bEIN Sports HD 5
+http://185.93.3.84:5000/play/a02e
+#EXTINF:0,1106: bEIN Sports HD 6
+http://185.93.3.84:5000/play/a029
+#EXTINF:0,1107: bEIN Sports HD 7
+http://185.93.3.84:5000/play/a02a
+#EXTINF:0,1108: bEIN Sports HD 8
+http://185.93.3.84:5000/play/a02b
+#EXTINF:0,1109: bEIN Sports HD 9
+http://185.93.3.84:5000/play/a02c
+#EXTINF:0,1110: bEIN Sports HD 10
+http://185.93.3.84:5000/play/a02g
+#EXTINF:0,1111: bEIN Sports HD 11
+http://185.93.3.84:5000/play/a02d
+#EXTINF:0,1112: bEIN Sports HD 12
+http://185.93.3.84:5000/play/a02f
